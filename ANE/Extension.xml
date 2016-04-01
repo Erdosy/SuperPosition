@@ -8,5 +8,11 @@
             <initializer>com.KjeMar.LocationExtension.AndroidGPSLocationExtension</initializer>
           </applicationDeployment>
         </platform>
+        <platform name="iPhone-ARM">
+            <applicationDeployment>
+                <nativeLibrary>libiOsLocationExtension.a</nativeLibrary>
+                <initializer>iOSLocationExtensionExtInitializer</initializer>
+            </applicationDeployment>
+        </platform>
       </platforms>
 </extension>
