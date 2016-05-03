@@ -1,3 +1,0 @@
-﻿—-Package ANE
-
-adt -package -target ane AndroidGPSTest.ane extension.xml -swc LocationExtension3.swc -platform Android-ARM -C android . -platform iPhone-ARM -C iOS
