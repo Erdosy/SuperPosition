@@ -1,0 +1,8 @@
+<platform xmlns="http://ns.adobe.com/air/extension/21.0">
+    <sdkVersion>9.2</sdkVersion>
+    <linkerOptions>
+    </linkerOptions> 
+	<packagedDependencies>
+		<packagedDependency>EstimoteSDK.framework</packagedDependency>
+	</packagedDependencies>
+</platform>
